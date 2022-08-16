@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP_HW_04/OOP_HW_04.iml" filepath="$PROJECT_DIR$/OOP_HW_04/OOP_HW_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HW_06/OOP_HW_06.iml" filepath="$PROJECT_DIR$/OOP_HW_06/OOP_HW_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HW_07/OOP_HW_07.iml" filepath="$PROJECT_DIR$/OOP_HW_07/OOP_HW_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HW_08/OOP_HW_08.iml" filepath="$PROJECT_DIR$/OOP_HW_08/OOP_HW_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_HW_09/OOP_HW_09.iml" filepath="$PROJECT_DIR$/OOP_HW_09/OOP_HW_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP_git.iml" filepath="$PROJECT_DIR$/.idea/OOP_git.iml" />
+    </modules>
+  </component>
+</project>
